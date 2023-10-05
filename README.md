@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @philippdieng
+- 👋 Hi, I’m Philipp
 - 👀 Just looking around
-- 🌱 Ohh a sweet lil plant
-- 💞️ Hihi thats my secret
-- 📫 How to reach me ... I don't know O.o
+- 🌱 Ohh look a lil plant
+- 💞️ I love it
+- 📫 How to reach me? ... Oh sorry I was distracted
 
 <!---
 philippdieng/philippdieng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
